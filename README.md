@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hello there 👋
 
-<!--
-**cmraebel/cmraebel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Connor, a software developer based in the United States.
 
-Here are some ideas to get you started:
+I'm currently learning C++ and I enjoy working with computer graphics and rendering.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+***
+
+Languages: Java, Kotlin, JavaScript, C++, Python
+
+Tools: IntelliJ, Android Studio, Visual Studio, VSCode
+
+***
+
+### Fun Fact
+
+Outside of programming, I enjoy writing and listening to music, and I teach drumlines!
